@@ -63,12 +63,12 @@
   },
   "author": {
     "name": "Eugene Glova",
-    "email": "eugene.glova@gmail.com",
-    "url": "https://eugeneglova.github.io"
+    "email": "brandon.richardson4328@outlook.com",
+    "url": "https://despicableGruu.github.io"
   },
   "license": "ISC",
   "build": {
-    "appId": "io.github.eugeneglova.binance-trading-bot",
+    "appId": "io.github.despicableGruu.binance-trading-bot",
     "productName": "BinanceTradingBot",
     "copyright": "Copyright © 2020 ${author}",
     "mac": {
